@@ -1,4 +1,4 @@
-# Algorithms Studies
+# Algorithm Studies
 
 A list of algorithms in Java
 
