@@ -1,6 +1,6 @@
 # Algorithm Studies
 
-A list of algorithms in Java
+Algorithms that I studied and implemented in Java
 
 ## Sorting
 
